@@ -1,4 +1,4 @@
-This project is for understand the How to use Router in react application.
+This project will demonstrate how to place routes in separate file and implement routing in react application
 ## Table of Contents
 
 - [React Router V4](#react-router-v4)
@@ -11,7 +11,7 @@ This project is for understand the How to use Router in react application.
 - [Supported Browsers](#supported-browsers)
 
 ## React Router v4
-   This will demostrate the use of Route, BrowserRouter, Switch, Link in React application. By using this we can make routing in react web application
+   This will demostrate the use of Route, BrowserRouter, Switch, Link in React application with how to place routes in external file and how to implement routing.
 
 ## Folder Structure
 
